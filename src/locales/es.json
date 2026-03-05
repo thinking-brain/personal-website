@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "about": "Sobre Mí",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "cta_contact": "Contáctame",
+    "cta_projects": "Ver Proyectos"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "heading": "Apasionado por construir gran software",
+    "clean_code": "Código Limpio",
+    "scalable": "Arquitectura Escalable",
+    "team_player": "Trabajo en Equipo"
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "heading": "Donde he trabajado",
+    "present": "Presente"
+  },
+  "education": {
+    "title": "Educación",
+    "heading": "Formación académica"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "heading": "Cosas que he construido",
+    "view_project": "Demo en Vivo",
+    "view_code": "Ver Código",
+    "featured": "Destacado",
+    "all": "Todos los Proyectos"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "heading": "Tecnologías con las que trabajo",
+    "languages": "Lenguajes",
+    "frameworks": "Frameworks y Librerías",
+    "tools": "Herramientas y Plataformas",
+    "databases": "Bases de Datos"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "heading": "Trabajemos juntos",
+    "subtitle": "Siempre estoy abierto a discutir nuevas oportunidades, proyectos, o simplemente charlar.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Correo"
+  },
+  "footer": {
+    "made_with": "Hecho con",
+    "rights": "Todos los derechos reservados."
+  },
+  "profile": {
+    "title": "Ingeniero Full-Stack Senior",
+    "tagline": "Más de 10 años construyendo soluciones web, móviles y empresariales con .NET Core, Angular, React y Cloud.",
+    "about": [
+      "Soy Ingeniero Informático y Desarrollador Full-Stack Senior con más de 10 años de experiencia creando aplicaciones web, móviles y empresariales. A lo largo de mi carrera he trabajado con un amplio stack tecnológico, destacando C#, .NET Core, Angular, React, SQL Server y Microservicios, además de experiencia en cloud (Azure/AWS).",
+      "Me apasiona diseñar y desarrollar soluciones escalables, seguras y mantenibles que generen valor real para el negocio. He participado en proyectos internacionales en sectores como gestión empresarial, LIMS (sistemas de información de laboratorio) y aplicaciones móviles, aportando no solo habilidades técnicas, sino también capacidad de trabajo en equipo, comunicación efectiva y liderazgo técnico.",
+      "Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas, con el objetivo de mantenerme actualizado y ofrecer soluciones innovadoras."
+    ],
+    "location": "Tarancón, Castilla-La Mancha, España",
+    "experience": {
+      "1": {
+        "role": "Ingeniero de Software Full-Stack",
+        "location": "España · Remoto",
+        "description": ["Desarrollo de aplicaciones con arquitectura de microservicios."]
+      },
+      "2": {
+        "role": "Desarrollador de Software",
+        "location": "Canadá · Remoto",
+        "description": [
+          "Mantenimiento y nuevas funcionalidades de la aplicación LIMS (Laboratory Information Management System).",
+          "Mantenimiento de scripts que importan muestras y exportan los resultados entre la aplicación LIMS y otros servicios.",
+          "Mantenimiento de aplicación diseñada para hacer cálculos predictivos de llenado de contenedores."
+        ]
+      },
+      "3": {
+        "role": "Ingeniero de Software",
+        "location": "Madrid, España",
+        "description": [
+          "Mantenimiento y nuevas funcionalidades de un sistema de gestión de distribución de paquetes con ASP.NET Core y React.",
+          "Aplicación para la gestión de notificaciones de servicios de impresión.",
+          "Mantenimiento de sitios WordPress para Seden y Newtral.",
+          "Desarrollo de aplicación web como frontend de la API de Personio para Habitissimo."
+        ]
+      },
+      "4": {
+        "role": "Desarrollador de Software",
+        "location": "Chile · Remoto",
+        "description": [
+          "Desarrollo de aplicación móvil para ventas y envío automático de datos a la Entidad Fiscal en Chile (SII).",
+          "Desarrollado con Ionic y Angular para el frontend, y AWS y Python para los servicios de backend."
+        ]
+      },
+      "5": {
+        "role": "Ingeniero de Software",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Desarrollo de aplicación con tablero para mostrar información financiera desde la aplicación de contabilidad Versat.",
+          "Desarrollo de nueva versión de la aplicación de gestión de contrataciones de RRHH en el Ministerio de Turismo, migrando el sistema legado de Java a .NET."
+        ]
+      },
+      "6": {
+        "role": "Ingeniero de Software Senior",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Diseño y desarrollo de aplicación para gestión de medios informáticos y tickets de soporte de usuarios.",
+          "Aplicación web para gestión de control de acceso de vehículos y personas a la empresa.",
+          "Aplicación web para gestión de contratos y la ejecución de los mismos.",
+          "Plataforma empresarial modular con gestión documental, integración contable, inventarios, activos fijos y nómina."
+        ]
+      },
+      "7": {
+        "role": "Desarrollador de Software",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Diseño y desarrollo de ModularApp: plataforma web modular basada en paquetes NuGet con módulos para gestión de caja, ventas, gimnasio, salón de belleza e inventarios.",
+          "Aplicación web para gestión de restaurant/bar con contabilidad simplificada para pequeños negocios.",
+          "Aplicación web para gestión de solicitudes de almacenes con integración al sistema contable Versat.",
+          "Sistema de gestión de reservas para restaurantes de hoteles.",
+          "Diversas aplicaciones web: clínica veterinaria, compra de materias primas, gestión de bonsáis y confección/venta de ropa artesanal."
+        ]
+      },
+      "8": {
+        "role": "Especialista en TIC",
+        "location": "Calimete, Matanzas, Cuba",
+        "description": ["Administración de redes, soporte a aplicaciones y gestión de la seguridad informática."]
+      }
+    },
+    "education": {
+      "1": {
+        "degree": "Ingeniería Informática",
+        "location": "Matanzas, Cuba",
+        "description": "Carrera de cinco años con énfasis en ingeniería de software, algoritmos, bases de datos, redes y diseño de sistemas."
+      },
+      "2": {
+        "degree": "SQL Fundamentals · C# · HTML · Java · Cloud Computing · Patrones de Arquitectura de Software",
+        "location": "En línea",
+        "description": "Serie de certificaciones profesionales en SQL, C#, fundamentos de HTML, Java, Cloud Computing y Patrones de Arquitectura de Software."
+      }
+    },
+    "projects": {
+      "1": { "description": "Plataforma web modular basada en paquetes NuGet distribuibles. Módulos incluidos: gestión de caja, ventas de productos, gimnasio, salón de belleza y control de inventarios." },
+      "2": { "description": "Mantenimiento y mejora de un sistema LIMS. Scripts de importación/exportación entre el LIMS y servicios externos. Herramienta de cálculo predictivo de llenado de contenedores." },
+      "3": { "description": "App móvil multiplataforma para ventas y emisión automática de boletas electrónicas al SII de Chile, con backend serverless en AWS." },
+      "4": { "description": "Plataforma empresarial para central termoeléctrica: gestión documental, contratos, control de acceso, tickets de soporte y módulos de integración contable." }
+    }
+  }
+}

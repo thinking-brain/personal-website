@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "cta_contact": "Get in Touch",
+    "cta_projects": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "heading": "Passionate about building great software",
+    "clean_code": "Clean Code",
+    "scalable": "Scalable Arch.",
+    "team_player": "Team Player"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "heading": "Where I have worked",
+    "present": "Present"
+  },
+  "education": {
+    "title": "Education",
+    "heading": "Academic background"
+  },
+  "projects": {
+    "title": "Projects",
+    "heading": "Things I have built",
+    "view_project": "Live Demo",
+    "view_code": "View Code",
+    "featured": "Featured",
+    "all": "All Projects"
+  },
+  "skills": {
+    "title": "Skills",
+    "heading": "Technologies I work with",
+    "languages": "Languages",
+    "frameworks": "Frameworks & Libraries",
+    "tools": "Tools & Platforms",
+    "databases": "Databases"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "heading": "Let's work together",
+    "subtitle": "I'm always open to discussing new opportunities, projects, or just to say hi.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email"
+  },
+  "footer": {
+    "made_with": "Made with",
+    "rights": "All rights reserved."
+  },
+  "profile": {
+    "title": "Senior Full-Stack Software Engineer",
+    "tagline": "10+ years building scalable web, mobile & enterprise solutions with .NET Core, Angular, React and Cloud.",
+    "about": [
+      "I am a Computer Engineer and Senior Full-Stack Developer with over 10 years of experience building web, mobile, and enterprise applications. Throughout my career I have worked with a wide technology stack, with a strong focus on C#, .NET Core, Angular, React, SQL Server, and Microservices, alongside cloud experience in Azure and AWS.",
+      "I am passionate about designing and developing scalable, secure, and maintainable solutions that generate real business value. I have contributed to international projects in sectors such as enterprise resource management, LIMS (laboratory information management systems), and mobile applications — bringing not only technical expertise, but also teamwork, effective communication, and technical leadership.",
+      "I am always learning new technologies and best practices, with the aim of staying current and delivering innovative solutions."
+    ],
+    "location": "Tarancón, Castilla-La Mancha, Spain",
+    "experience": {
+      "1": {
+        "role": "Full-Stack Software Engineer",
+        "location": "Spain · Remote",
+        "description": ["Development of applications with microservices architecture."]
+      },
+      "2": {
+        "role": "Software Developer",
+        "location": "Canada · Remote",
+        "description": [
+          "Maintenance and new feature development for a LIMS (Laboratory Information Management System) application.",
+          "Maintained scripts that import samples and export results between the LIMS and other services.",
+          "Maintained a predictive container fill calculation application."
+        ]
+      },
+      "3": {
+        "role": "Software Engineer",
+        "location": "Madrid, Spain",
+        "description": [
+          "Maintained and extended a package distribution management system built with ASP.NET Core and React.",
+          "Developed a notification management application for print services.",
+          "Maintained WordPress sites for Seden and Newtral.",
+          "Built a web frontend for the Personio API for Habitissimo."
+        ]
+      },
+      "4": {
+        "role": "Software Developer",
+        "location": "Chile · Remote",
+        "description": [
+          "Developed a mobile application for sales management and automated fiscal data submission to the Chilean tax authority (SII).",
+          "Built with Ionic and Angular for the frontend and AWS + Python for backend services."
+        ]
+      },
+      "5": {
+        "role": "Software Engineer",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Developed a dashboard application to display live financial data from the Versat accounting system.",
+          "Built a new version of the HR contracting management application for the Ministry of Tourism, migrating the legacy Java system to .NET."
+        ]
+      },
+      "6": {
+        "role": "Senior Software Engineer",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Designed and developed an IT asset management and user support ticket system.",
+          "Built a vehicle and personnel access control application.",
+          "Developed a contracts management and execution tracking system.",
+          "Built a modular enterprise platform including document management, accounting integration, warehouse inventory, fixed assets, and payroll modules."
+        ]
+      },
+      "7": {
+        "role": "Software Developer",
+        "location": "Matanzas, Cuba",
+        "description": [
+          "Designed and developed ModularApp: a plug-in NuGet-based web platform with modules for cash management, sales, gym, beauty salon, and inventory.",
+          "Built a restaurant/bar management web app with simplified accounting for small businesses.",
+          "Developed a web app for warehouse stock requests and integration with the Versat accounting system.",
+          "Created a hotel restaurant reservation management system.",
+          "Built various other web applications: veterinary clinic, raw materials purchasing, bonsai rental, and clothing manufacturing/sales."
+        ]
+      },
+      "8": {
+        "role": "ICT Specialist",
+        "location": "Calimete, Matanzas, Cuba",
+        "description": ["Network administration, application support, and IT security management."]
+      }
+    },
+    "education": {
+      "1": {
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "location": "Matanzas, Cuba",
+        "description": "Five-year computer engineering degree covering software engineering, algorithms, databases, networks, and systems design."
+      },
+      "2": {
+        "degree": "SQL Fundamentals · C# · HTML · Java · Cloud Computing · Software Architecture Patterns",
+        "location": "Online",
+        "description": "Series of professional certifications covering SQL, C#, HTML fundamentals, Java, The Complete Cloud Computing, and Software Architecture Patterns."
+      }
+    },
+    "projects": {
+      "1": { "description": "Designed and developed a modular web platform using distributable NuGet packages to compose features. Modules included: cash management, product sales, gym management, beauty salon, and inventory control." },
+      "2": { "description": "Maintained and enhanced a Laboratory Information Management System (LIMS). Developed import/export scripts bridging the LIMS with external services, and built a predictive container fill calculation tool." },
+      "3": { "description": "Cross-platform mobile app for sales management and automated electronic invoice submission to the Chilean tax authority (SII), with cloud backend on AWS." },
+      "4": { "description": "Built a full enterprise platform for a thermoelectric power plant: document management, contracts, vehicle access control, IT asset ticketing, and accounting integration modules." }
+    }
+  }
+}
